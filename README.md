@@ -34,10 +34,9 @@ Designed with a premium glassmorphism interface, advanced search capabilities, b
 
 # 🚀 Live Demo
 
-### 🌐 Website
+### 🌐 Live Demo
 
-https://search-movie-cinemax.netlify.app/
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge&logo=netlify)](https://search-movie-cinemax.netlify.app/)
 ---
 
 # 📸 Preview
